@@ -579,7 +579,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a99e80a501514fec9e2bbba590ef54d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.02
+  speed: 0.2
   playerAnimator: {fileID: 1450893551}
   _currentState: 
   face_front: sheep_front
